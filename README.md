@@ -1,23 +1,32 @@
 <div align="center">
 
-# Hi, I'm Ekrem 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=180&section=header&text=EKREM%20ABDULKERIM&fontSize=38&fontColor=FFFFFF&desc=Growth%20Marketer%20%C3%97%20Systems%20Builder&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-### *Digital Marketer turned Builder · Paid Search & SEO · PHP/MySQL · Marketing Automation*
-
-![Digital Marketing](https://img.shields.io/badge/DIGITAL_MARKETING-8B5CF6?style=for-the-badge)
-![Paid Search](https://img.shields.io/badge/PAID_SEARCH-3B82F6?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO-14B8A6?style=for-the-badge)
-![Marketing Automation](https://img.shields.io/badge/MARKETING_AUTOMATION-F5C518?style=for-the-badge&logoColor=black&labelColor=F5C518&color=F5C518)
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=18&pause=1400&color=3B82F6&center=true&vCenter=true&width=720&lines=Running+paid+search+and+SEO+for+a+4-client+agency;Building+the+reporting+systems+behind+the+numbers;PHP+%C2%B7+MySQL+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Docker;Google+Ads+%C2%B7+GA4+%C2%B7+Meta+Ads+%C2%B7+SEMrush+%C2%B7+Ahrefs" />
 
 </div>
 
-I'm a digital marketer who ended up writing the software behind the agency. I run paid search, paid social, and SEO for a four-client book with ~25,000 PLN in managed ad spend — and I build the systems that keep the work honest: client reporting portals, billing/contract automation, and custom SEO tooling. Google-certified through the DigiPivot Poland program.
+<br>
+
+<div align="center">
+
+| 💰 Managed Ad Spend | 📈 Organic Visits | 🎯 Avg. CPC | 📞 Customer Interactions |
+|:---:|:---:|:---:|:---:|
+| **~25,000 PLN** | **+60%** in 60 days | **0.31 PLN** | **+47.7%** |
+
+</div>
+
+I co-founded **LineUp**, a digital marketing agency, and run paid search, paid social, and SEO for our client accounts. Instead of buying SaaS for reporting, billing, and rank tracking, I built it myself — so the numbers above come from systems I wrote, not just campaigns I managed. Google-certified through the DigiPivot Poland program.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧬 Dual Stack
 
-**Marketing Stack**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**📢 Marketing**
 
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
@@ -26,7 +35,10 @@ I'm a digital marketer who ended up writing the software behind the agency. I ru
 ![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square&logo=semrush&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7A00?style=flat-square&logo=ahrefs&logoColor=white)
 
-**Dev Stack**
+</td>
+<td valign="top" width="50%">
+
+**💻 Engineering**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -34,9 +46,10 @@ I'm a digital marketer who ended up writing the software behind the agency. I ru
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
 
-**Methods**
+</td>
+</tr>
+</table>
 
 ![Paid Search Management](https://img.shields.io/badge/Paid_Search_Management-8B5CF6?style=flat-square)
 ![Local SEO](https://img.shields.io/badge/Local_SEO-6B7280?style=flat-square)
@@ -46,33 +59,20 @@ I'm a digital marketer who ended up writing the software behind the agency. I ru
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Work
 
-**🔹 Client Reporting Platform**
-`Tools: PHP, MySQL, GA4, Search Console, PageSpeed, Localo, Google OAuth`
-A full agency reporting system covering Local SEO, Website SEO, AI SEO, SMM, and SEM. Automated data sync jobs pull from GA4, Search Console, PageSpeed, and Localo into client-facing dashboards and PDF reports.
-
-**🔹 Billing & Contract Automation**
-`Tools: PHP, Dompdf, PHPMailer`
-Automated invoicing, e-signature contract flow, and client mailing pipeline that runs day-to-day agency operations end to end.
-
-**🔹 Custom SEO Rank Checker**
-`Tools: PHP, third-party SEO APIs`
-In-house keyword rank tracking tool built to support client reporting and transparency without relying on external SaaS costs.
-
-**🔹 Local SEO Campaign (Client Case Study)**
-`Tools: Google Business Profile, Google Ads, GA4`
-Increased customer interactions 47.7% through keyword-rich Google Business Profile posting and local listing optimization; managed a 1,000 PLN/month Google Ads campaign guided by GA4 bid and keyword adjustments.
+| Project | Stack | Impact |
+|---|---|---|
+| **Client Reporting Platform** | PHP · MySQL · GA4 · Search Console · PageSpeed · Localo · Google OAuth | Full agency reporting system spanning Local SEO, Website SEO, AI SEO, SMM, and SEM |
+| **Billing & Contract Automation** | PHP · Dompdf · PHPMailer | Automated invoicing, e-signature contracts, and client mailing pipeline — runs agency ops end to end |
+| **Custom SEO Rank Checker** | PHP · SEO APIs | In-house keyword rank tracking built for reporting and client transparency |
+| **Local SEO Campaign** *(client case study)* | Google Business Profile · Google Ads · GA4 | +47.7% customer interactions on a 1,000 PLN/month budget |
 
 ---
 
-### 🔍 Interests
+### 🔍 Currently
 
-- Paid search & SEO strategy
-- Marketing automation & internal tooling
-- API integrations (GA4, Search Console, PageSpeed, Localo)
-- Full-funnel client reporting systems
-- Building growth infrastructure for small agencies
+Finishing an MA in International Relations at the University of Wrocław while running LineUp full-time.
 
 ---
 
@@ -82,5 +82,6 @@ Increased customer interactions 47.7% through keyword-rich Google Business Profi
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekrem.abdulkerim@lineup.agency)
 [![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lineup.agency)
 
-📍 Wrocław, Poland
-🌐 Turkish (native) · Uyghur (native) · English (fluent) · Russian (fluent) · Polish (B1)
+📍 Wrocław, Poland &nbsp;·&nbsp; 🌐 Turkish (native) · Uyghur (native) · English (fluent) · Russian (fluent) · Polish (B1)
+
+*Client references available on request.*
